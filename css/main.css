@@ -1,0 +1,172 @@
+.body{
+    width: 100%;
+}
+.navbar-new{
+margin: auto;
+font-size: 30px;
+color: grey;
+
+}
+.btn-new{
+    width: 500px;
+    height: 35px;
+    font-size: 15px;
+}
+a:hover {
+    color: rgb(55, 55, 248);
+  }
+.navbar-one{
+    color: rgb(60, 60, 206);
+}
+.nav-mll{
+    margin-left: 60px;
+}
+.section{
+    margin-top: 60px;
+    font-weight: 800;
+    font-size: 50px;
+}
+.box-new{
+    width: 500px;
+    margin: auto;
+}
+.btn-sec{
+    margin-left: 600px;
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+    font-weight: 600;
+}
+.section1{
+    color: grey;
+    font-weight: normal;
+}
+.card-new{
+    
+    height: 250px;
+}
+.card-box{
+    justify-content: center;
+    margin-top: 100px;
+}
+.card-text1{
+    margin-top: 20px;
+}
+.card-title1{
+    color: rgb(48, 46, 46);
+}
+.box1{
+    width: 450px;
+    height: 300px;
+    font-size: 12px;
+    margin-left: 250px;
+    font-family: "Open Sans", sans-serif;
+    
+}
+.box2{
+    width: 400px;
+    height: 300px;
+    font-size: 12px;
+    font-family: "Open Sans", sans-serif;
+}
+.box-outer{
+    margin-top: 100px;
+}
+.box-outer1{
+    margin-top: 40px;
+    justify-items: center;
+    display: grid;
+}
+.box-par{
+    color: grey;
+    font-weight: lighter;
+}
+.btn-learn{
+    background-color: white;
+    border: 1px solid #2487ce;
+    color:#2487ce;
+    justify-items: flex-start;
+    width: 120px;
+    height: 30px;
+    font-weight: lighter;
+    display: inline-block;
+    font-size: 12px;
+    
+}
+.title-about{
+    font-family: "Raleway", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #124265;
+}
+.li{
+    display: list-item;
+
+}
+.box-4{
+    justify-content: space-between;
+}
+.text4{
+    font-family:  "Open Sans", sans-serif;
+}
+.main-box{
+    width: 50%;
+    margin-left: 300px;
+    background-color:  #f8fbfe;
+    /* margin-bottom: 70px; */
+}
+.par-text{
+    font-weight: 600;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+}
+.img{
+    width: 100%;
+}
+.sec3{
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    
+}
+.box5{
+    width: 100px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+.img1{
+    width: 5%;
+    transition: all 0.4s ease-in-out;
+    filter: grayscale(100);
+    display: inline-block;
+}
+.box-img{
+    width: 80%;
+    margin-left: 100px;
+}
+.client-bg{
+    background-color: #f8fbfe;
+ 
+}
+.img-test{
+    width: 90px;
+    border-radius: 50%;
+    
+}
+.para-text{
+    margin: 0 15px 15px 15px;
+    padding: 20px;
+    background: #f3f9fd;
+    position: relative;
+    margin-bottom: 35px;
+    border-radius: 6px;
+
+    
+}
+.text-item{
+    text-align: center;
+}
